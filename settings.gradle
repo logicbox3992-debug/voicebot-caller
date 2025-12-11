@@ -1,0 +1,2 @@
+rootProject.name = "VoiceBotCaller"
+include ':app'
