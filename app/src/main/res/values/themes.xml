@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.VoiceBotCaller" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#005EFF</item>
+        <item name="colorPrimaryVariant">#0038A8</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <item name="android:statusBarColor">#0038A8</item>
+    </style>
+
+</resources>
